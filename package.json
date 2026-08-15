@@ -1,0 +1,15 @@
+{
+  "name": "twinvault-omega-core-v2",
+  "version": "1.0.0",
+  "description": "Advanced threat primitives for TwinVault",
+  "type": "module",
+  "main": "src/index.js",
+  "keywords": [
+    "security",
+    "cryptography",
+    "post-quantum",
+    "steganography",
+    "zero-knowledge"
+  ],
+  "license": "MIT"
+}
