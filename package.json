@@ -9,7 +9,8 @@
     "cryptography",
     "post-quantum",
     "steganography",
-    "zero-knowledge"
+    "zero-knowledge",
+    "oblivious"
   ],
   "license": "MIT"
 }
